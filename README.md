@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Raja Shekhar
-- 👀 I’m interested in technologies like - Machine Learning ,Deep Learning ,Data Analtyics
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Machine Learning, Data Science, Deep Learning, Natural Langauge Processing, Web Development and Problem Solving. 
+- 🌱 I’m currently learning Web Development and NLP
+- 📫 How to reach me @rajashekhariit@gmail.com
 
 <!---
 ShekharCode/ShekharCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
