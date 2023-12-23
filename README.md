@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Web Development and BlockChain
 - 📫 How to reach me rajashekhariit@gmail.com
 
-![](https://komarev.com/ghpvc/?username=ShekharCode)
-
 <!---
 ShekharCode/ShekharCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
